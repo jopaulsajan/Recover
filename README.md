@@ -1,2 +1,2 @@
 # Recover
-A program that recovers lost jpeg files from a raw file.
+A C program that recovers lost jpeg files from a raw file.
